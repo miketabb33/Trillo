@@ -1,7 +1,10 @@
-# Udemy advanced css course section
+# Trillo Project
 
-[Course Link](https://www.udemy.com/course/advanced-css-and-sass/)
+This repository is a follow along project from Udemy's "[Advanced CSS and Sass: Flexbox, Grid, Animations and More!](<(https://www.udemy.com/course/advanced-css-and-sass/)>)", by [Jonas Schmedtmann](https://www.udemy.com/user/jonasschmedtmann/).
 
-## Trillo Project
+This is the courses second project, Trillo - A fictional, all in one, booking app. This project does not exhibit real functionality and is only focused on CSS.
 
-This repo is for a follow along style Udemy course on advanced css and flexbox.
+## Getting Started
+
+1. Run `npm install`
+2. Run `npm start`
